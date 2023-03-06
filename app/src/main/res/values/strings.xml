@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberFacts</string>
+    <string name="get_fac">Get fac</string>
+    <string name="get_fact_about_random_number">Get fact about random number</string>
+</resources>
